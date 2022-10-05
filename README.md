@@ -1,6 +1,8 @@
 # How to use Whisper to transcribe a YouTube video - Tutorial
 In this tutorial you will learn how to use OpenAIs Whisper to transcribe a YouTube video
 
+[Full written guide](https://lablab.ai/t/whisper-transcribe-youtube-video)
+
 ## What is Whisper?
 
 Whisper is an automatic State-of-the-Art speech recognition system from OpenAI that has been trained on 
